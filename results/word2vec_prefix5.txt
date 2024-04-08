@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+0.2844127665298832
+Sessions evaluated: 6000
+=======
 0.2749535012011084
 Sessions evaluated: 6168
+>>>>>>> 7bf056867af1ddfac98d1464a1aa022cbe8caa3d

@@ -1,0 +1,2 @@
+0.10540301767065925
+Sessions evaluated: 6000
